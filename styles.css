@@ -1,25 +1,31 @@
+head{
+    padding: 25000mm;
+}
+img{
+    width: 50%;
+    max-width: 75%;
+}
 body{
     width: 100%;
     max-width: 1024px;
     margin: 0 auto;
     background-color: aquamarine;
     font-size: 75%;
+    text-align: center;
 }
 
 p {
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    color: blue 
+    margin-top: 0 auto;
+    margin-left: 0 auto;
+    margin-bottom: 0 auto;
+    margin-right: 0 auto;
+    color: blue;
+    font-style: unset;
     
-}
-
-getByIdSlector.maintitle {
-    color: green;
 }
 
 footer {
     text-align: center;
+    font-size: large;
     color: orange;
 }
